@@ -1,0 +1,38 @@
+[2025-06-02T18:33:23.720928] Criado diretório: root/projetos
+[2025-06-02T18:33:34.222911700] Criado arquivo: root/projetos/relatorio.txt
+[2025-06-02T18:33:40.358048] Listagem de: root/projetos
+[2025-06-02T18:33:44.961489600] Arquivo renomeado: root/projetos/relatorio.txt → resumo.txt
+[2025-06-02T18:33:50.173705900] Arquivo removido: root/projetos/resumo.txt
+[2025-06-02T18:47:38.098061600] Criado arquivo: root/teste.txt
+[2025-06-02T18:47:43.805716] Arquivo copiado: root/teste.txt → copia.txt
+[2025-06-02T18:47:49.062042800] Listagem de: root
+[2025-06-18T15:42:57.134589600] > mkdir documentos/
+[2025-06-18T15:43:05.813341400] mkdir documentos/
+[2025-06-18T15:43:24.855734700] touch documentos/arquivo1.txt
+[2025-06-18T15:43:41.644036300] mkdir imagens/
+[2025-06-18T15:43:48.641229] touch imagens/foto1.jpg
+[2025-06-18T15:44:18.143629400] ls root
+[2025-06-18T15:44:18.150627400] Listagem de: root
+[2025-06-18T15:44:32.310893200] ls root/documentos
+[2025-06-18T15:57:53.788724] mkdir documentos/
+[2025-06-18T15:58:08.270171300] touch documentos/arquivo1.txt
+[2025-06-18T15:58:17.625272200] mkdir imagens/
+[2025-06-18T15:58:24.700437500] touch imagens/foto1.jpg
+[2025-06-18T16:00:25.151564900] mkdir documentos
+[2025-06-18T16:00:25.157590200] Criado diretório: root/documentos
+[2025-06-18T16:00:33.777321600] touch documentos/arquivo1.txt
+[2025-06-18T16:00:33.787321900] Criado arquivo: root/documentos/arquivo1.txt
+[2025-06-18T16:01:02.815068300] ls root
+[2025-06-18T16:01:02.816071] Listagem de: root
+[2025-06-18T16:01:29.669219800] mkdir imagens
+[2025-06-18T16:01:29.670212700] Criado diretório: root/imagens
+[2025-06-18T16:01:39.687651300] touch imagens/foto1.jpg
+[2025-06-18T16:01:39.688649200] Criado arquivo: root/imagens/foto1.jpg
+[2025-06-18T16:02:08.507552400] Criado diretório: root/documentos
+[2025-06-18T16:02:08.510553400] Criado arquivo: root/documentos/arquivo1.txt
+[2025-06-18T16:02:08.510553400] Criado diretório: root/imagens
+[2025-06-18T16:02:08.511556100] Criado arquivo: root/imagens/foto1.jpg
+[2025-06-18T16:02:11.462785800] ls root
+[2025-06-18T16:02:11.463788700] Listagem de: root
+[2025-06-18T16:02:21.398260700] ls root/documentos
+[2025-06-18T16:02:21.399268600] Listagem de: root/documentos
